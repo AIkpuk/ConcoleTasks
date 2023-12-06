@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcoleTasks", "ConcoleTasks\ConcoleTasks.csproj", "{248C2DDA-D2E4-4CCD-AA1F-B6CD44A41146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{248C2DDA-D2E4-4CCD-AA1F-B6CD44A41146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248C2DDA-D2E4-4CCD-AA1F-B6CD44A41146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248C2DDA-D2E4-4CCD-AA1F-B6CD44A41146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248C2DDA-D2E4-4CCD-AA1F-B6CD44A41146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4419B77-B315-4D32-A5B8-43031BAA62B3}
+	EndGlobalSection
+EndGlobal
